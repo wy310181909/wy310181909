@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asher
-- 👀 I’m interested in Java and GO
+- 👀 I’m interested in Java and Go
 - 🌱 I’m currently learning Java
 - 📫 How to reach me 310181909@qq.com
 
